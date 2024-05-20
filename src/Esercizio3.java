@@ -2,7 +2,7 @@ public class Esercizio3 {
     public static void main(String[] args) {
         System.out.println("esercizio 3 !");
         System.out.println(perimetroRettangolo(2,3));
-        System.out.println(pariOdispari(0));
+        System.out.println(pariOdispari(12));
         System.out.println(areaTriangolo(3,4,5));
     }
     public static double perimetroRettangolo(double l1, double l2){
